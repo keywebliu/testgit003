@@ -1,1 +1,2 @@
 this is test git003 test001.txt
+changed in the git repository
